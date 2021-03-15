@@ -1,5 +1,3 @@
 ## Netflix Veritabanı Yönetim Sistemi Klonu
 
-Prolab 6.proje
-
-Proje detayları için : [Proje Raporu](https://github.com/sevkikaragol/NetflixVTYSKlon-Prolab/blob/main/rapor.pdf)
+### Daha fazla bilgi için --> [Proje Raporu](https://github.com/mustafayigit34/NetflixVTYSKlon-Prolab/blob/main/rapor.pdf)
